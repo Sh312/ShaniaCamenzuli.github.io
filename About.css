@@ -1,0 +1,59 @@
+body {
+    background-color: #e7eaeb;
+}
+
+.navbar-brand {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+}
+
+.nav-link {
+    color:#577a75;
+    font-family: 'Yeseva One', serif;
+}
+
+.dropdown-item {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+}
+
+h1 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.side {
+    color: #577a75;
+    border: 0px;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+    margin: 30px;
+}
+
+.Copyright {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+}
+
+p {
+   color: #577a75;
+   font-family: 'Yeseva One', serif;
+   font-size: 12px;
+}
+
+h4 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+}
+
+h5 {
+    color: #577a75;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+ }
