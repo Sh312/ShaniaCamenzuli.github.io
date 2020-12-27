@@ -65,3 +65,12 @@ h2 {
 .carousel-inner {
     padding-top: 20px;
 }
+
+.carousel-control-next,
+.carousel-control-prev /*, .carousel-indicators */ {
+    filter: invert(100%);
+}
+
+.carousel-item {
+    color: black;
+}
