@@ -25,6 +25,12 @@ h2 {
     padding-bottom: 10px;
 }
 
+h1 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    padding-top: 50px;
+}
+
 .img-background {
     opacity: 0.3;
 }
