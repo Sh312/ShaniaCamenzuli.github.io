@@ -80,6 +80,11 @@ body {
     padding-top: 20px;
 }
 
+.btn  {
+    background-color: #577a75;
+    border: 0px;
+}
+
 hr {
     margin-bottom: 3px;
     margin-top: 3px;
