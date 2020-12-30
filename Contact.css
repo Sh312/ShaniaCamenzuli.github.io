@@ -81,8 +81,9 @@ body {
 }
 
 .btn  {
-    background-color: #577a75;
-    border: 0px;
+    color: #577a75;
+    border-color: #577a75;
+    background-color: white;
 }
 
 hr {
