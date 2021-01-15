@@ -22,6 +22,7 @@ h1 {
     font-family: 'Yeseva One', serif;
     padding-top: 10px;
     padding-left: 40px;
+    font-size: 32px;
 }
 
 .side {
@@ -41,19 +42,21 @@ h1 {
     padding-top: 20px;
 }
 
-p {
+h6 {
    color: #577a75;
    font-family: 'Yeseva One', serif;
-   font-size: 12px;
+   font-size: 14px;
+   padding-bottom: 10px;
 }
 
 h4 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
+    font-size: 25px;
 }
 
-h5 {
+p {
     color: #577a75;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 15px;
+    font-size: 16px;
  }

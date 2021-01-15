@@ -22,6 +22,7 @@ h1 {
     font-family: 'Yeseva One', serif;
     padding-top: 10px;
     padding-left: 40px;
+    font-size: 32px;
 }
 
 .side {
@@ -45,7 +46,7 @@ h1 {
 }
 
 .card-title {
-    font-size: 24px;
+    font-size: 25px;
 }
 
 .Copyright {
@@ -56,3 +57,10 @@ h1 {
     text-align: center;
     padding-top: 20px;
 }
+
+h6 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }

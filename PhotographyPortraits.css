@@ -29,12 +29,13 @@ h1 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
     padding-top: 50px;
+    font-size: 32px;
 }
 
 p {
     color: #577a75;
     font-family: 'Josefin Sans', sans-serif;
-    font-size: 14px;
+    font-size: 16px;
     padding-top: 25px;
  }
 
@@ -61,3 +62,10 @@ p {
 .col-sm-12 {
     padding-top: 20px;
 }
+
+h6 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }

@@ -70,6 +70,7 @@ body {
     margin-bottom: 10px; 
     border-radius: 16px;
     border-color: #577a75;
+    font-size: 15px;
 }
 
 .col2 {
@@ -83,39 +84,38 @@ body {
 hr {
     margin-bottom: 3px;
     margin-top: 3px;
-    
-}
-
-p {
-    color: #577a75;
-    font-family: 'Yeseva One', serif;
-    padding-top: 10px;
-    padding-left: 40px;
 }
 
 h1 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
     padding-top: 10px;
+    font-size: 32px;
 }
 
 h5 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
-    font-size: 13px;
+    font-size: 15px;
     padding-top: 10px;
-    padding-left: 40px;
 }
 
 h3 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
     padding-top: 20px;
-    padding-left: 40px;
+    font-size: 25px;
 }
 
 a {
-    color: black;
+    color: #577a75;
     font-family: 'Yeseva One', serif; 
     font-size: 15px;
 }
+
+h6 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }
