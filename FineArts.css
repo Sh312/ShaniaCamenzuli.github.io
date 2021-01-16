@@ -48,7 +48,8 @@ h6 {
 
 .col {
     opacity: 0.3;
-    column-span: all;
+    max-width: 100%;
+    height: auto;
 }
 
 .col-sm-6 {
