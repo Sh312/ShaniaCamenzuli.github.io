@@ -29,7 +29,7 @@ body {
 h1 {
     color:  #577a75;;
     font-family: 'Yeseva One', serif;
-    padding-top: 30px;
+    padding-top: 32px;
     font-size: 37px;
     text-align: center;
 }
@@ -47,17 +47,23 @@ h2 {
 h5 {
     color:  #577a75;;
     font-family: 'Yeseva One', serif;
-    padding-top: 30px;
+    padding-top: 20px;
     padding-left: 30px;
     padding-right: 20px;
     font-size: 15px;
     text-align: center;
 }
 
-.img-fluid {
-    align-items: center;
-    justify-content: center;
-  }
+h6 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }
+ 
+.col-md-12 {
+    margin-bottom: 10px;
+}
 
 a {
     color: #577a75;
