@@ -111,6 +111,10 @@ a {
     font-size: 15px;
 }
 
+a:hover {
+    color: black;
+}
+
 .Copyright {
     color: #577a75;
     font-family: 'Yeseva One', serif;
