@@ -17,18 +17,27 @@ body {
     font-family: 'Yeseva One', serif;
 }
 
+.side {
+    color: #577a75;
+    border: 0px;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+    margin: 30px;
+    margin-bottom: 10px;
+}
+
 h1 {
     color:  #577a75;;
     font-family: 'Yeseva One', serif;
     padding-top: 30px;
-    font-size: 36px;
+    font-size: 37px;
     text-align: center;
 }
 
-h3 {
+h2 {
     color:  #577a75;;
     font-family: 'Yeseva One', serif;
-    padding-top: 30px;
+    padding-top: 32px;
     padding-left: 20px;
     padding-right: 20px;
     font-size: 25px;
@@ -45,26 +54,17 @@ h5 {
     text-align: center;
 }
 
-.side {
-    color: #577a75;
-    border: 0px;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
-    margin: 30px;
-    margin-bottom: 10px;
-}
-
-.Copyright {
-    color: #577a75;
-    font-family: 'Yeseva One', serif;
-    font-size: 12px;
-    margin: 0 auto;
-}
-
 .img-fluid {
     align-items: center;
     justify-content: center;
   }
+
+a {
+    color: #577a75;
+    font-family: 'Yeseva One', serif; 
+    font-size: 15px;
+    text-decoration: none;
+}
 
 .Copyright {
     color: #577a75;
@@ -72,11 +72,4 @@ h5 {
     font-size: 12px;
     margin: 0 auto;
     text-align: center;
-}
-
-a {
-    color: #577a75;
-    font-family: 'Yeseva One', serif; 
-    font-size: 15px;
-    text-decoration: none;
 }

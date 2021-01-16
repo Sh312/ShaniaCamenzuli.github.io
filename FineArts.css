@@ -17,12 +17,11 @@ body {
     font-family: 'Yeseva One', serif;
 }
 
-h2 {
+.side {
     color: #577a75;
-    font-family: 'Yeseva One', serif;
-    font-size: 25px;
-    padding-top: 50px;
-    padding-bottom: 10px;
+    border: 0px;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
 }
 
 h1 {
@@ -32,24 +31,23 @@ h1 {
     font-size: 32px;
 }
 
-.img-background {
-    opacity: 0.3;
-}
-
-.side {
-    color: #577a75;
-    border: 0px;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
-}
-
-.Copyright {
+h2 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
-    font-size: 12px;
-    margin: 0 auto;
-    text-align: center;
-    padding-top: 20px;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+
+h6 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }
+
+.img-background {
+    opacity: 0.3;
 }
 
 .col-sm-12 {
@@ -64,9 +62,11 @@ h1 {
     padding-top: 20px;
 }
 
-h6 {
+.Copyright {
     color: #577a75;
     font-family: 'Yeseva One', serif;
-    font-size: 14px;
-    padding-bottom: 10px;
- }
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 20px;
+}

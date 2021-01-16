@@ -25,14 +25,33 @@ body {
     margin: 30px;
 }
 
-.Copyright {
+h1 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
-    font-size: 12px;
-    margin: 0 auto;
-    text-align: center;
-    padding-top: 15px;
+    padding-top: 10px;
+    font-size: 32px;
 }
+
+h2 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+h5 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 15px;
+    padding-top: 10px;
+}
+
+h6 {
+    color: #577a75;
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }
 
 #name {
     color: #577a75;
@@ -86,36 +105,17 @@ hr {
     margin-top: 3px;
 }
 
-h1 {
-    color: #577a75;
-    font-family: 'Yeseva One', serif;
-    padding-top: 10px;
-    font-size: 32px;
-}
-
-h5 {
-    color: #577a75;
-    font-family: 'Yeseva One', serif;
-    font-size: 15px;
-    padding-top: 10px;
-}
-
-h3 {
-    color: #577a75;
-    font-family: 'Yeseva One', serif;
-    padding-top: 20px;
-    font-size: 25px;
-}
-
 a {
     color: #577a75;
     font-family: 'Yeseva One', serif; 
     font-size: 15px;
 }
 
-h6 {
+.Copyright {
     color: #577a75;
     font-family: 'Yeseva One', serif;
-    font-size: 14px;
-    padding-bottom: 10px;
- }
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+}

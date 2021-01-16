@@ -17,6 +17,14 @@ body {
     font-family: 'Yeseva One', serif;
 }
 
+.side {
+    color: #577a75;
+    border: 0px;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
+    margin: 30px;
+}
+
 h1 {
     color: #577a75;
     font-family: 'Yeseva One', serif;
@@ -25,13 +33,12 @@ h1 {
     font-size: 32px;
 }
 
-.side {
+h6 {
     color: #577a75;
-    border: 0px;
-    height: 1px;
-    background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(0,0,0,0.5), rgba(0,0,0,0));
-    margin: 30px;
-}
+    font-family: 'Yeseva One', serif;
+    font-size: 14px;
+    padding-bottom: 10px;
+ }
 
 .card {
     color: #577a75;
@@ -57,10 +64,3 @@ h1 {
     text-align: center;
     padding-top: 20px;
 }
-
-h6 {
-    color: #577a75;
-    font-family: 'Yeseva One', serif;
-    font-size: 14px;
-    padding-bottom: 10px;
- }
