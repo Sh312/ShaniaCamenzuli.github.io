@@ -48,6 +48,7 @@ h6 {
 
 .img-background {
     opacity: 0.3;
+    column-span: all;
 }
 
 .col-sm-6 {
