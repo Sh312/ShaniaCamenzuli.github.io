@@ -60,3 +60,8 @@ p {
     text-align: center;
     padding-top: 20px;
 }
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
